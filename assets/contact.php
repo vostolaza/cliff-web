@@ -57,7 +57,7 @@
             $mail->Port = 587;
         
             $mail->Username = 'cliff.dev.2021@gmail.com'; // YOUR gmail email
-            $mail->Password = 'bikaclif'; // YOUR gmail password
+            $mail->Password = 'bikacliff'; // YOUR gmail password
             $mail->setFrom('cliffdev@gmail.com', 'Cliff dev');
             $mail->addAddress('cliff.dev.2021@gmail.com', 'Cliff');
             $mail->IsHTML(true);
